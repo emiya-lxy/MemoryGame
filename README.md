@@ -1,3 +1,2 @@
 # MemoryGame
-<p>Just a trick and keep updating!</p>
-<p>Used for Swift training.</p>
+<p>A small trick which is just used for learning Swift. And the code is based on Pro. Paul Hegarty, Stanford Univ. Some additional function may be added in future.</p>
